@@ -23,4 +23,4 @@ CSS for styling and layout
 JavaScript for the game logic and interaction
 
 🏅 Demo-
-Want to see the game in action? Check out the live demo.
+Want to see the game in action? Check out the live demo(https://yuvrajrawat14.github.io/GuessMyNumber/).
